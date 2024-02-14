@@ -4,14 +4,13 @@
 
 # LIBFT
 
-**In this project you have to create your own library which you can use in future projects.
-It must contain the following functions with the prefix `ft_`:**
+**In this project you have to create your own library which you can use in future projects.**
 
 </div>
 
 ---
 
-##About the project
+## About the project
 
 This library recreates of the standard C librry functions and introduce additional utility functions.
 
