@@ -2,7 +2,7 @@
 
 ![Libft](https://github.com/TheLink-42/42-project-badges/blob/main/badges/libftm.png)
 
-# LIBFT
+# 42 LIBFT
 
 **In this project you have to create your own library which you can use in future projects.**
 
